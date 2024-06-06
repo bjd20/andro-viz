@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VisualizeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="line_fragment">Chart fragment</string>
+    <string name="pie_fragment">Pie fragment</string>
+    <string name="load_csv">Load a CSV file</string>
+    <string name="select_chart_label">Select Chart type</string>
+    <string name="select_x">Select X</string>
+    <string name="select_y">Select Y</string>
+    <string name="select_pie_labels">Select Labels</string>
+    <string name="select_pie_values">Select Values</string>
+
+    <string name="chart_list_key">CHART LIST</string>
+
+</resources>
